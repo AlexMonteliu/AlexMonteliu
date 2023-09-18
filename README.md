@@ -8,4 +8,4 @@ My name is Alejandro Monteliu, I'm from Spain(Madrid).
 * Critical thinking, decision-making and problem solving skills
 * Use of cibersecurity tools.
 ## Contact
-Contact me on [Linkedin](www.linkedin.com/in/alejandro-monteliu-lópez-a74a11287)
+Contact me on [Linkedin](https://www.linkedin.com/in/alejandro-monteliu-l%C3%B3pez-a74a11287/)
