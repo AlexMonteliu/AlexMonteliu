@@ -1,16 +1,11 @@
-### Hi there 👋
+### HELLO 👋
+My name is Javi, I'm from Spain(Madrid).
+* Currently studying 4th year of computer engineering with ethical hacking.
 
-<!--
-**AlexMonteliu/AlexMonteliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+* Programs: Python, Java, sql, html, css, C#
+* Use of linux
+* Critical thinking, decision-making and problem solving skills
+* Use of cibersecurity tools.
+## Contact
+Contact me on [Linkedin](www.linkedin.com/in/alejandro-monteliu-lópez-a74a11287)
