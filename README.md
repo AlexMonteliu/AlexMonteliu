@@ -1,5 +1,5 @@
 ### HELLO 👋
-My name is Javi, I'm from Spain(Madrid).
+My name is Alejandro Monteliu, I'm from Spain(Madrid).
 * Currently studying 4th year of computer engineering with ethical hacking.
 
 ## Skills
